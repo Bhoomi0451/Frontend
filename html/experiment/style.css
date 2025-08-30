@@ -1,0 +1,58 @@
+*{
+    padding: 20;
+    margin: 20;
+    box-sizing: border-box;
+}
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+head{
+    text-decoration: wavy;
+}
+img{
+    border-radius: 50%;
+}
+
+section {
+    margin: 16px 24px;
+}
+#odd-semester-timetable {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fdfdfd;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 1000px;
+}
+
+#odd-semester-timetable h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#odd-semester-timetable table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#odd-semester-timetable th,
+#odd-semester-timetable td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+#odd-semester-timetable thead th {
+  background-color: #eaeaea;
+}
+
+#odd-semester-timetable tfoot td {
+  background-color: #d9edf7;
+  font-weight: bold;
+}
+
+
+
