@@ -1,0 +1,21 @@
+*{
+    padding: 30;
+    margin: 20;
+    box-sizing: border-box;
+}
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+head{
+    text-decoration: wavy;
+}
+img{
+    border-radius: 50%;
+}
+
+section {
+    margin: 16px 24px;
+}
